@@ -1,0 +1,24 @@
+Autor: Daniel Bispo
+Email: danielvbispo@outlook.com
+mar/2019
+----------------------------------------------------------------------------------------------------
+
+Validação do banco de dados corrigido
+
+Lista com o valor total do estoque por categoria, considerando a quantidade de cada produto:
+
+
+Categoria: Acessórios
+total: 0
+
+Categoria: Eletrodomésticos
+total: 315752.67
+
+Categoria: Eletrônicos
+total: 203989.2
+
+Categoria: Panelas
+total: 4049.64
+
+
+----------------------------------------------------------------------------------------------------
